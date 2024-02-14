@@ -1,0 +1,18 @@
+
+u
+java:S1104	"SMake txtNum1 a static final constant or non-public and provide accessors if needed.(ëÅÀáüÿÿÿÿ8¦±£ÃÚ1
+p
+java:S1104
+"SMake txtNum2 a static final constant or non-public and provide accessors if needed.(ĞÔìß8§±£ÃÚ1
+w
+java:S1104"UMake txtResult a static final constant or non-public and provide accessors if needed.(ô¼¸Ûşÿÿÿÿ8§±£ÃÚ1
+7
+java:S1220""Move this file to a named package.8¨±£ÃÚ1
+T
+java:S1172"2Remove this unused method parameter "actionEvent".(¶ğÖÿÿÿÿÿ8ç±£ÃÚ1
+O
+java:S1172"2Remove this unused method parameter "actionEvent".(ô§°8Òà©ÃÚ1
+O
+java:S1128"-Remove this unused import 'javafx.fxml.FXML'.(ÃÚ¢„şÿÿÿÿ8ê±£ÃÚ1
+Z
+java:S1128"8Remove this unused import 'javafx.scene.control.Button'.(Ë Í‹øÿÿÿÿ8ê±£ÃÚ1

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MainFormController">
+   <children>
+      <TextField fx:id="txtNum1" layoutX="36.0" layoutY="54.0" prefHeight="42.0" prefWidth="139.0" promptText="Enter num 1" />
+      <TextField fx:id="txtNum2" layoutX="226.0" layoutY="54.0" prefHeight="42.0" prefWidth="132.0" promptText="Enter num 2" />
+      <TextField fx:id="txtResult" layoutX="397.0" layoutY="54.0" prefHeight="42.0" prefWidth="132.0" />
+      <Button layoutX="106.0" layoutY="179.0" mnemonicParsing="false" onAction="#addTwoNumbers" prefHeight="42.0" prefWidth="113.0" text="ADD" textFill="#ab1212" />
+      <Button fx:id="btnClear" layoutX="274.0" layoutY="179.0" mnemonicParsing="false" onAction="#btnClear" prefHeight="42.0" prefWidth="163.0" text="Clear" />
+   </children>
+</AnchorPane>
